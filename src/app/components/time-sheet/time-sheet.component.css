@@ -1,0 +1,9 @@
+p{
+    color: black;
+    text-align: center;
+}
+.body-principal{
+    margin-left: 30%;
+    background-color: hsl(0, 0%, 95%);
+     margin-top: 5%;
+}
